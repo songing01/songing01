@@ -34,6 +34,12 @@
      <td align="center">2023.07 ~ 2023.8</td>
      <td align="center">EFUB 3기 SWS 여름 방학 프로젝트</td>
    </tr>
+    <tr width="100%">
+     <td align="center"><a href=""><b>CHERI</b></a></td>
+     <td align="center">프론트엔드</td>
+     <td align="center">2023.07 ~ 2023.8</td>
+     <td align="center">2023 관광분야 GEN AI 해커톤</td>
+   </tr>
  </table>
 
  </div>
