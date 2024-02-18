@@ -9,8 +9,13 @@
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 
 
-
+### ABOUT ME
  <table border="" cellspacing="0" cellpadding="0" width="100%">
+   <tr width="100%">
+     <td align="center">송지민</td>
+     <td align="center">songing01@gmail.com</td>
+     <td align="center">2001.05.08</td>
+   </tr>
    <tr width="100%">
      <td align="center">2020.03 ~ 2024.08</td>
      <td align="center">이화여자대학교 컴퓨터공학과</td>
@@ -29,7 +34,9 @@
  </table>
  
  <br>
- 
+<br>
+
+### PROJECTS
  <table border="" cellspacing="0" cellpadding="0" width="100%">
     <tr width="100%">
      <td align="center"><a href=""><b>COOK-SAVE</b></a></td>
