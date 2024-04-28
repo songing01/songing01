@@ -44,6 +44,12 @@
      <td align="center">23.09 ~ 진행중 </td>
      <td align="center">졸업 프로젝트</td>
    </tr>
+    <tr width="100%">
+     <td align="center"><a href=""><b>E-BUS</b></a></td>
+     <td align="center">프론트엔드</td>
+     <td align="center">24.03.15 ~ 24.03.18 </td>
+     <td align="center">2024 이화톤 참가</td>
+   </tr>
    <tr width="100%">
      <td align="center"><a href=""><b>Let's-JUPJUP</b></a></td>
      <td align="center">팀장 & 프론트엔드</td>
