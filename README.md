@@ -17,9 +17,9 @@
      <td align="center">생년월일블라인드</td>
    </tr>
    <tr width="100%">
-     <td align="center">2020.03 ~ 2024.08</td>
+     <td align="center">2020.03 ~ 2025.02</td>
      <td align="center">ㅇㅇㅇㅇ대학교 컴퓨터공학과</td>
-     <td align="center">재학</td>
+     <td align="center">졸업예정</td>
    </tr>
      <tr width="100%">
      <td align="center">2024.01 ~ 2024.12</td>
