@@ -12,13 +12,13 @@
 ### ABOUT ME
  <table border="" cellspacing="0" cellpadding="0" width="100%">
    <tr width="100%">
-     <td align="center">송지민</td>
+     <td align="center">이름블라인드</td>
      <td align="center">songing01@gmail.com</td>
-     <td align="center">2001.05.08</td>
+     <td align="center">생년월일블라인드</td>
    </tr>
    <tr width="100%">
      <td align="center">2020.03 ~ 2024.08</td>
-     <td align="center">이화여자대학교 컴퓨터공학과</td>
+     <td align="center">ㅇㅇㅇㅇ대학교 컴퓨터공학과</td>
      <td align="center">재학</td>
    </tr>
      <tr width="100%">
@@ -41,14 +41,14 @@
     <tr width="100%">
      <td align="center"><a href=""><b>COOK-SAVE</b></a></td>
      <td align="center">UX/UI 디자인 & 프론트엔드</td>
-     <td align="center">23.09 ~ 진행중 </td>
+     <td align="center">23.09 ~ 24.06 </td>
      <td align="center">졸업 프로젝트</td>
    </tr>
     <tr width="100%">
      <td align="center"><a href=""><b>E-BUS</b></a></td>
      <td align="center">프론트엔드</td>
      <td align="center">24.03.15 ~ 24.03.18 </td>
-     <td align="center">2024 이화톤 참가</td>
+     <td align="center">2024 교내 해커톤 참가</td>
    </tr>
    <tr width="100%">
      <td align="center"><a href=""><b>Let's-JUPJUP</b></a></td>
