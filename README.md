@@ -12,9 +12,9 @@
 ### ABOUT ME
  <table border="" cellspacing="0" cellpadding="0" width="100%">
    <tr width="100%">
-     <td align="center">이름블라인드</td>
+     <td align="center">[이름 블라인드]</td>
      <td align="center">songing01@gmail.com</td>
-     <td align="center">생년월일블라인드</td>
+     <td align="center">[생년월일 블라인드]</td>
    </tr>
    <tr width="100%">
      <td align="center">2020.03 ~ 2025.02</td>
