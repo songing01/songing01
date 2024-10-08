@@ -18,7 +18,7 @@
    </tr>
    <tr width="100%">
      <td align="center">2020.03 ~ 2025.02</td>
-     <td align="center">ㅇㅇㅇㅇ대학교 컴퓨터공학과</td>
+     <td align="center">[블라인드]대학교 컴퓨터공학과</td>
      <td align="center">졸업예정</td>
    </tr>
      <tr width="100%">
@@ -39,37 +39,37 @@
 ### PROJECTS
  <table border="" cellspacing="0" cellpadding="0" width="100%">
     <tr width="100%">
-     <td align="center"><a href=""><b>COOK-SAVE</b></a></td>
+     <td align="center"><a href="https://github.com/EWHA-CAPSTONE-COOKSAVE/cooksave-front"><b>COOK-SAVE</b></a></td>
      <td align="center">UX/UI 디자인 & 프론트엔드</td>
      <td align="center">23.09 ~ 24.06 </td>
      <td align="center">졸업 프로젝트</td>
    </tr>
     <tr width="100%">
-     <td align="center"><a href=""><b>E-BUS</b></a></td>
+     <td align="center"><a href="https://github.com/E-BUS/CLIENT"><b>E-BUS</b></a></td>
      <td align="center">프론트엔드</td>
      <td align="center">24.03.15 ~ 24.03.18 </td>
      <td align="center">2024 교내 해커톤 참가</td>
    </tr>
    <tr width="100%">
-     <td align="center"><a href=""><b>Let's-JUPJUP</b></a></td>
+     <td align="center"><a href="https://github.com/Lets-JUPJUP/JUPJUP-Front"><b>Let's-JUPJUP</b></a></td>
      <td align="center">팀장 & 프론트엔드</td>
      <td align="center">23.09 ~ 진행중</td>
      <td align="center">2023 제2회 SW개발 공모전 : 피우다 프로젝트 <br>🏆 우수상 수상</td>
    </tr>
      <tr width="100%">
-     <td align="center"><a href=""><b>Snap-Spot</b></a></td>
+     <td align="center"><a href="https://github.com/Snap-Spot/SnapSpot-Frontend"><b>Snap-Spot</b></a></td>
      <td align="center">프론트엔드</td>
      <td align="center">2023.08 ~ 2023.10</td>
      <td align="center">2023 관광데이터 활용 공모전<br>🏆 장려상 수상 <br>이화여대 캡스톤 디자인 대회 <br> 🏆 은상 수상</td>
    </tr>
    <tr width="100%">
-     <td align="center"><a href=""><b>BagEasy</b></a></td>
+     <td align="center"><a href="https://github.com/EFUB-SURFERS/BagEasy-front"><b>BagEasy</b></a></td>
      <td align="center">팀장 & 프론트엔드</td>
      <td align="center">2023.07 ~ 2023.8</td>
      <td align="center">EFUB 3기 SWS 여름 방학 프로젝트</td>
    </tr>
     <tr width="100%">
-     <td align="center"><a href=""><b>CHERI</b></a></td>
+     <td align="center"><a href="https://github.com/songing01/CHERI-FRONT"><b>CHERI</b></a></td>
      <td align="center">프론트엔드</td>
      <td align="center">2023.07 ~ 2023.8</td>
      <td align="center">2023 관광분야 GEN AI 해커톤</td>
