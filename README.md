@@ -12,14 +12,14 @@
 ### ABOUT ME
  <table border="" cellspacing="0" cellpadding="0" width="100%">
    <tr width="100%">
-     <td align="center">[이름 블라인드]</td>
+     <td align="center">송지민</td>
      <td align="center">songing01@gmail.com</td>
-     <td align="center">[생년월일 블라인드]</td>
+     <td align="center">2001.05.08</td>
    </tr>
    <tr width="100%">
      <td align="center">2020.03 ~ 2025.02</td>
-     <td align="center">[블라인드]대학교 컴퓨터공학과</td>
-     <td align="center">졸업예정</td>
+     <td align="center">이화여자대학교 컴퓨터공학과</td>
+     <td align="center">2025.02 졸업</td>
    </tr>
      <tr width="100%">
      <td align="center">2024.01 ~ 2024.12</td>
