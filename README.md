@@ -54,13 +54,13 @@
      <td align="center"><a href="https://github.com/Lets-JUPJUP/JUPJUP-Front"><b>Let's-JUPJUP</b></a></td>
      <td align="center">팀장 & 프론트엔드</td>
      <td align="center">23.09 ~ 진행중</td>
-     <td align="center">2023 제2회 SW개발 공모전 : 피우다 프로젝트 <br>🏆 우수상 수상</td>
+     <td align="center">2023 제2회 SW개발 공모전 : 피우다 프로젝트 <br>🏆 우수상 수상 <br>2024 이화여대 캡스톤 디자인 대회 <br> 🏆 은상 수상</td>
    </tr>
      <tr width="100%">
      <td align="center"><a href="https://github.com/Snap-Spot/SnapSpot-Frontend"><b>Snap-Spot</b></a></td>
      <td align="center">프론트엔드</td>
      <td align="center">2023.08 ~ 2023.10</td>
-     <td align="center">2023 관광데이터 활용 공모전<br>🏆 장려상 수상 <br>이화여대 캡스톤 디자인 대회 <br> 🏆 은상 수상</td>
+     <td align="center">2023 관광데이터 활용 공모전<br>🏆 장려상 수상 <br>2023 이화여대 캡스톤 디자인 대회 <br> 🏆 은상 수상</td>
    </tr>
    <tr width="100%">
      <td align="center"><a href="https://github.com/EFUB-SURFERS/BagEasy-front"><b>BagEasy</b></a></td>
